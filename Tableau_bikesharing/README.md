@@ -47,6 +47,6 @@ These final heatmaps show a further breakdown of utilization. The two charts mat
 To submit a recommendation for the Des Moines buisiness, I would include the following Future Analysis. 
 
 Future analysis:
-It would be good to compare the populations of Des Moines to NYC, particular the city density, seasonal viablity of bike riding, and relitive distances of the city limits as compared to NYC. 
+It would be good to compare the populations of Des Moines to NYC, particular the city density, seasonal viablity of bike riding, and relative distances of the city limits as compared to NYC. 
 
 For this data set, I would like to analysis which CitiBike stations had what action: I would break the stations into three groups: most popular pick-up AND drop-off stations, most popular pick-up stations only, most popular drop-off stations only. Then I would like to draw a lined map of the infrastructure needed to get the bikes at the most likely drop off stations BACK to the most likely pick-up stations, and the distance needed to be covered in between. 
