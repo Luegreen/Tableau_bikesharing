@@ -1,3 +1,4 @@
+
 # Overview of the analysis
 This analysis gives a 360 view of a CitiBikeNYC data set acquired from  https://www.citibikenyc.com/system-data. A customer would like to see a full scale analysis to aid the decision to begin a Citi Bike program in Des Moines, Iowa. 
 
@@ -13,7 +14,7 @@ Adjusting the data set in Python was a first step to making the data easy to use
 https://public.tableau.com/app/profile/luegreen/viz/Module_14_challenge/Story1
 
 ### Page 1 of Story
-<img width="961" alt="Screen Shot 2021-07-14 at 11 04 17 AM" src="https://user-images.githubusercontent.com/14239715/125645722-5508554a-4658-454a-9945-8c13ee69efa7.png">
+<img width="987" alt="Screen Shot 2021-07-14 at 12 06 36 PM" src="https://user-images.githubusercontent.com/14239715/125655306-49964421-9c69-4d3b-a26a-c9cf635dc956.png">
 
 This analysis shows 1) the huge discrepancy between rides that are three hours or less vs all other lengths and 2) that there still are rides of all lengths, although not many. This viz shows a distribution of the data set in a way that is very consumable as opposed to a histogram or regular bar. 
 
